@@ -1,4 +1,6 @@
-## Olá, eu sou a Gabriele Namie, desenvolvedora IOS!
+### Hello, I'm Gabriele Namie! 😊
+<!-- What I'm working with -->
+- I'm currently working with iOS development at Apple Developer Academy | Mackenzie. 
 <div align="center">
   <a href="https://github.com/Gabrielenamie">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielenamie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -6,7 +8,6 @@
 </div>
 <div style="display: inline_block"><br>
 
-  
 ##
    <a href="https://discord.gg/ez6frt9M" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabrielenamie123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
