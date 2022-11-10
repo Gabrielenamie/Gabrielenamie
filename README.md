@@ -12,6 +12,9 @@
   <img align="center" alt="Swift" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
   <img align="center" alt="Swift" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Swift" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
+  <img align="right" alt="Gabi-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/2ZKe0SemzZB5NfbShB/giphy.gif">
+  
+</div>
                                                                                                                                          
 ##
    <a href="https://discord.gg/ez6frt9M" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
