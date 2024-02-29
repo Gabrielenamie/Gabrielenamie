@@ -1,6 +1,6 @@
 ### Hello, I'm Gabriele Namie! 😊
 <!-- What I'm working with -->
-- I'm currently working with iOS development at Apple Developer Academy | Mackenzie. 
+- I'm currently working with iOS development at F1rst Digital Services and I'm alumni in Apple Developer Academy | Mackenzie. 
 <div align="center">
   <a href="https://github.com/Gabrielenamie">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielenamie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
